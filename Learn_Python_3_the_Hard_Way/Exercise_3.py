@@ -1,6 +1,6 @@
 # Terrence Paz
 # Learn Python 3 the Hard Way
-# Exercise 2
+# Exercise 3
 # December 4, 2021
 
 print("I will now count my chickens:")
