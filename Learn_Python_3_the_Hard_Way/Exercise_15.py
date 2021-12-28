@@ -2,6 +2,7 @@
 # Learn Python 3 the Hard Way
 # Exercise 15
 # December 4, 2021
+# Updated 12/27/2021
 
 
 # to run this program within the cmd window type in python Exercise_15.py ex15_sample.txt

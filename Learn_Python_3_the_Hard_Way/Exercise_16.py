@@ -2,6 +2,7 @@
 # Learn Python 3 the Hard Way
 # Exercise 16
 # December 4, 2021
+# Updated 12/27/2021
 
 
 # This program will open a text file and erase all the contents then write new content to the file.

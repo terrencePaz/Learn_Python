@@ -2,6 +2,7 @@
 # Learn Python 3 the Hard Way
 # Exercise 14
 # December 4, 2021
+# Updated 12/27/2021
 
 # Run this program using the cmd prompt and type in python Exercise_14.py Zed
 # the Zed can be replaced with anything.

@@ -2,7 +2,7 @@
 # Learn Python 3 the Hard Way
 # Exercise 17
 # December 4, 2021
-
+# Updated 12/27/2021
 
 # This program copies the data from one file and paste it into another file.
 # To run in the cmd window type python Exercise_17.py text.py text2.py
