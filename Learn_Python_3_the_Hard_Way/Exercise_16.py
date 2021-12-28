@@ -4,7 +4,9 @@
 # December 4, 2021
 
 
-# Getting a SyntaxError even though all the instructions are being followed.
+# This program will open a text file and erase all the contents then write new content to the file.
+# To run this program type the following into the cmd window python Exercise_16.py text.txt
+
 
 from sys import argv
 

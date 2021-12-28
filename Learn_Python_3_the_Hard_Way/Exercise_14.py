@@ -6,7 +6,6 @@
 # Run this program using the cmd prompt and type in python Exercise_14.py Zed
 # the Zed can be replaced with anything.
 
-# Getting a SyntaxError even though all the instructions are being followed.
 
 from sys import argv
 
@@ -27,5 +26,5 @@ computer = input(prompt)
 print(f"""
 Alright, so you said {likes} about liking me.
 You live in {lives}.  Not sure where that is.
-And you avhe a {computer} computer.  Nice.
+And you have a {computer} computer.  Nice.
 """)
